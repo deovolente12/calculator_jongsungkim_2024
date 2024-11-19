@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348608106168",
+    "project_id": "calculatorhistory-91551",
+    "storage_bucket": "calculatorhistory-91551.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348608106168:android:de55c636824b00eb3f6e4d",
+        "android_client_info": {
+          "package_name": "com.example.calculator_jongsungkim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3PqrSxA7scDBK-7Zr71iGz5gl-8J0Cng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
